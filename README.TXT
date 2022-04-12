@@ -1,7 +1,7 @@
 This is a sample for sca-maven-plugin. You can use it to verify that the plugin functions correctly.
 
 << System Operating Environment >>
-	sca-maven-plugin supports Maven 3.0.5 and 3.3.x. 
+	sca-maven-plugin supports Maven 3.0.5 and 3.3.x.
 
 << System Requirement >>
 	Maven is designed to download dependencies and it's triggered by a project declaring a dependency that is not present in the local repository.
