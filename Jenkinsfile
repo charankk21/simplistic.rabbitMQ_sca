@@ -1,6 +1,6 @@
 node{
 
-        stage ('OWASP Dependency-Check Vulnerabilities') {
+        stage ('OWASP Dependency-Check Vulnerabilities ') {
            
                 deleteDir()
               
